@@ -14,7 +14,7 @@ pip3 install discord-ext-voice-recv
 ### Потом
 ![Потом](./images/Потом.png)
 ### И вот это
-![И вот это](./images/И%вот%это.png)
+![И вот это](./images/И%20вот%20это.png)
 ### Копируешь token
 ## В консоли 
 ``` 
