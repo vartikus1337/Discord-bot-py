@@ -2,11 +2,15 @@
 Просто хотел поработать с ботами в discord.
 В итоге 'перелилось' во что-то такое.
 ## Для установки 
-``` pip3 install discord ```
-``` pip3 install discord-ext-voice-recv ```
+``` 
+pip3 install discord 
+```
+``` 
+pip3 install discord-ext-voice-recv 
+```
 ## Как запустить
 ### Для начала
-![Создать бота для ds](https://discord.com/developers/applications)
+[Создать бота для ds](https://discord.com/developers/applications)
 ### Потом
 <p><img src="./images/Потом.png"></p>
 ### И вот это
