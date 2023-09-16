@@ -18,7 +18,7 @@ pip3 install discord-ext-voice-recv
 ### Копируешь token
 ## В консоли 
 ``` 
-python MyClient.py <TOKEN> 
+python MyClient.py -t <TOKEN> 
 ```
 ### Заходишь на сервер заходишь в голосовой канал и смотришь в консоль
 ## Итог
