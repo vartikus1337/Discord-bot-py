@@ -16,4 +16,11 @@ async def on_member_join(member: discord.Member):
     await client.get_channel(TEXT_CHANNEL_ID).send(f'Welcome {member.global_name}!')
 
 
+@client.event
+async def on_message(message: discord.message.Message):
+    if message.author == client.user:
+        return
+    await message.channel.send(f'{message.author.name} сказал: {message.content}')
+
+
 client.run(TOKEN)
