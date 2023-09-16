@@ -12,12 +12,14 @@ pip3 install discord-ext-voice-recv
 ### Для начала
 [Создать бота для ds](https://discord.com/developers/applications)
 ### Потом
-<p><img src="./images/Потом.png"></p>
+![Потом](./images/Потом.png)
 ### И вот это
-<p><img src="./images/И вот это.png"></p>
+![И вот это](./images/И вот это.png)
 ### Копируешь token
 ## В консоли 
-``` python MyClient.py <TOKEN> ```
+``` 
+python MyClient.py <TOKEN> 
+```
 ### Заходишь на сервер заходишь в голосовой канал и смотришь в консоль
 ## Итог
-<p><img src="./images/Итог.png"></p>
+![Итог](./images/Итог.png)
